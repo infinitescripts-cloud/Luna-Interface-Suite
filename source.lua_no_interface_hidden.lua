@@ -7014,5 +7014,7 @@ end
 end]]--
 return Luna
 
+-- Original Luna Interface Suite © 2024 Nebula Softworks
 -- Modified by Travi
--- Deleted closing notification thingy cause it was kind of annoying actually 
+-- Changes:
+-- • Removed Interface Hidden
