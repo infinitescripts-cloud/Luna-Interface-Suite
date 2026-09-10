@@ -7013,3 +7013,6 @@ end
     t1:CreateDropdown({Description = "Special Type - Player", Callback = "", SpecialType = "Player"})
 end]]--
 return Luna
+
+### Modified By travi (infinitescripts-cloud)
+* travi | Deleted closing notification causd it was kind of annoying all credits to Nebula Softworks!
